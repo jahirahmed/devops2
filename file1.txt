@@ -1,4 +1,7 @@
-this is  a sample file for git - line 1
+line 1 this is  a sample file for git
 line 2
 line 3
-Tue Aug 30 04:33:15 GMTDT 2022
+line 4 Tue Aug 30 04:33:15 GMTDT 2022
+line 5
+line 6
+line 7
